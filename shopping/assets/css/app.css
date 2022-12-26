@@ -1,0 +1,18 @@
+.bg-purple {
+background:#6c5ce7;
+font-weight:bold;
+}
+
+.section {
+    background:#6c5ce7;
+    color:white;
+    font-weight: bold;
+}
+
+.centered {
+position: absolute;
+top: 50%;
+left: 50%;
+transform:translate(-50%,-50%);
+}
+
